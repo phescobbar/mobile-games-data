@@ -1,0 +1,217 @@
+{
+  "name": "boltshorts-mobile-games-data",
+  "title": "Boltshorts mobile games data",
+  "homepage": "https://boltshorts.com/data/",
+  "version": "2026-10-24",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "sources": [
+    {
+      "title": "US App Store"
+    },
+    {
+      "title": "Google Play (US)"
+    },
+    {
+      "title": "Apple iTunes Search API"
+    }
+  ],
+  "resources": [
+    {
+      "name": "mobile-games",
+      "path": "mobile-games.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Game name as we write it (the App Store name without the tagline)."
+          },
+          {
+            "name": "studio",
+            "type": "string",
+            "description": "Developer shown on the App Store."
+          },
+          {
+            "name": "released",
+            "type": "date",
+            "description": "First release date on the US App Store."
+          },
+          {
+            "name": "genre",
+            "type": "string",
+            "description": "Main App Store category."
+          },
+          {
+            "name": "ios_rating",
+            "type": "number",
+            "description": "Average rating on the US App Store, exact to two decimals."
+          },
+          {
+            "name": "ios_ratings",
+            "type": "number",
+            "description": "Number of ratings on the US App Store."
+          },
+          {
+            "name": "android_rating",
+            "type": "number",
+            "description": "Average rating on the US Google Play store."
+          },
+          {
+            "name": "android_ratings",
+            "type": "number",
+            "description": "Number of ratings on the US Google Play store."
+          },
+          {
+            "name": "android_downloads",
+            "type": "string",
+            "description": "Download range shown by Google Play, for example 10M+. Blank when we could not match the game to a Google Play page."
+          },
+          {
+            "name": "price_ios",
+            "type": "string",
+            "description": "Price on the US App Store: Free, a dollar price, Free to try, Apple Arcade or Netflix membership."
+          },
+          {
+            "name": "price_android",
+            "type": "string",
+            "description": "Price on the US Google Play store."
+          },
+          {
+            "name": "android_ads",
+            "type": "string",
+            "description": "Whether the Google Play page shows the \"Contains ads\" label."
+          },
+          {
+            "name": "android_iap",
+            "type": "string",
+            "description": "Whether the Google Play page shows the \"In-app purchases\" label."
+          },
+          {
+            "name": "ios_size_mb",
+            "type": "number",
+            "description": "Download size on iPhone from Apple's iTunes Search API."
+          },
+          {
+            "name": "ios_languages",
+            "type": "number",
+            "description": "Number of languages listed on the App Store."
+          },
+          {
+            "name": "ios_version",
+            "type": "string",
+            "description": "Latest version number on the App Store."
+          },
+          {
+            "name": "ios_last_update",
+            "type": "date",
+            "description": "Date of the latest App Store update."
+          },
+          {
+            "name": "age_rating",
+            "type": "number",
+            "description": "Age rating on the US App Store."
+          },
+          {
+            "name": "read_on",
+            "type": "date",
+            "description": "Most recent date we read this game's store pages."
+          },
+          {
+            "name": "app_store_url",
+            "type": "string",
+            "description": "US App Store page."
+          },
+          {
+            "name": "google_play_url",
+            "type": "string",
+            "description": "US Google Play page."
+          },
+          {
+            "name": "boltshorts_page",
+            "type": "string",
+            "description": "This game's page on Boltshorts, with every number and how it compares."
+          },
+          {
+            "name": "boltshorts_lists",
+            "type": "string",
+            "description": "Boltshorts lists that rank this game."
+          },
+          {
+            "name": "app_store_id",
+            "type": "string",
+            "description": "Numeric App Store id. It never changes, so it is the key to join versions and other datasets."
+          },
+          {
+            "name": "genres",
+            "type": "string",
+            "description": "Every App Store category of the game, main one first, separated by semicolons."
+          },
+          {
+            "name": "ios_min_version",
+            "type": "string",
+            "description": "Oldest iOS version the current App Store build supports."
+          },
+          {
+            "name": "ipad",
+            "type": "string",
+            "description": "Whether the App Store lists iPad among the supported devices."
+          },
+          {
+            "name": "ios_advisories",
+            "type": "string",
+            "description": "Content descriptors behind the App Store age rating, for example \"Loot Boxes\" or \"Infrequent/Mild Simulated Gambling\"."
+          },
+          {
+            "name": "android_developer",
+            "type": "string",
+            "description": "Developer name shown on Google Play."
+          },
+          {
+            "name": "android_released",
+            "type": "date",
+            "description": "Release date shown on Google Play."
+          },
+          {
+            "name": "android_last_update",
+            "type": "date",
+            "description": "Date of the latest update shown on Google Play."
+          },
+          {
+            "name": "android_iap_range",
+            "type": "string",
+            "description": "Price range per item that Google Play shows, for example \"$0.99 - $99.99 per item\"."
+          },
+          {
+            "name": "android_editors_choice",
+            "type": "string",
+            "description": "Whether the Google Play page shows the Editors' Choice badge."
+          },
+          {
+            "name": "chart_date",
+            "type": "date",
+            "description": "Date of the App Store top charts in chart_positions."
+          },
+          {
+            "name": "chart_positions",
+            "type": "string",
+            "description": "Positions in the US App Store top 100 charts for iPhone on chart_date, as chart/category/rank, separated by semicolons. Categories are App Store game genres; \"Games\" is the chart of all games."
+          },
+          {
+            "name": "source_set",
+            "type": "string",
+            "description": "\"boltshorts-lists\" for a game on one of our lists, \"app-store-charts\" for a game that was in a US App Store top chart for games when we read them."
+          }
+        ]
+      }
+    }
+  ]
+}
