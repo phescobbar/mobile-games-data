@@ -1,17 +1,17 @@
-# Mobile games data: App Store and Google Play facts for 2,981 games
+# Mobile games data: App Store and Google Play facts for 8,047 games
 
-Store facts for 2,981 iPhone and Android games, side by side: ratings and rating counts on both stores, Google Play downloads, prices, the Google Play "Contains ads" and "In-app purchases" labels, iPhone download size, languages, age rating, release and update dates, and US App Store chart positions.
+Store facts for 8,047 iPhone and Android games, side by side: ratings and rating counts on both stores, Google Play downloads, prices, the Google Play "Contains ads" and "In-app purchases" labels, iPhone download size, languages, age rating, release and update dates, and US App Store chart positions.
 
-It covers every game in the US App Store top charts for games (free, paid and top grossing, overall and for each game genre) plus the games on the [Boltshorts](https://boltshorts.com) lists. Last read from the stores on October 24, 2026.
+It covers every game in the US App Store top charts for games (free, paid and top grossing, overall and for each game genre), every other game with 1,000+ US App Store ratings from the same studios, and the games on the [Boltshorts](https://boltshorts.com) lists. Last read from the stores on October 27, 2026.
 
 **Browse it, with a page per game and benchmarks per genre:** https://boltshorts.com/data/
 
 ## At a glance
 
-- 2,981 games, 36 columns, one row per game.
-- 57% of the games we matched on Google Play carry the "Contains ads" label (1,180 of 2,068).
-- 39% cost money up front on the App Store.
-- Median App Store rating 4.65, median iPhone download 318 MB.
+- 8,047 games, 36 columns, one row per game.
+- 73% of the games we matched on Google Play carry the "Contains ads" label (4,005 of 5,522).
+- 18% cost money up front on the App Store.
+- Median App Store rating 4.64, median iPhone download 305 MB.
 
 More findings: [Mobile game ads, prices and sizes: what the data says](https://boltshorts.com/mobile-games-by-the-numbers/).
 
@@ -23,7 +23,7 @@ More findings: [Mobile game ads, prices and sizes: what the data says](https://b
 | [`mobile-games.json`](mobile-games.json) | The same, as JSON, with the column dictionary |
 | [`genres/`](genres/) | One CSV per App Store game genre (16 genres) |
 | [`charts/`](charts/) | US App Store top 100 game charts for iPhone, one CSV per day |
-| [`archive/`](archive/) | Every dated version of the table (1 so far), to follow ratings, prices and sizes over time |
+| [`archive/`](archive/) | Every dated version of the table (3 so far), to follow ratings, prices and sizes over time |
 | [`datapackage.json`](datapackage.json) | Frictionless Data descriptor |
 
 ## Columns
@@ -65,7 +65,7 @@ More findings: [Mobile game ads, prices and sizes: what the data says](https://b
 | `android_editors_choice` | Whether the Google Play page shows the Editors' Choice badge. |
 | `chart_date` | Date of the App Store top charts in chart_positions. |
 | `chart_positions` | Positions in the US App Store top 100 charts for iPhone on chart_date, as chart/category/rank, separated by semicolons. Categories are App Store game genres; "Games" is the chart of all games. |
-| `source_set` | "boltshorts-lists" for a game on one of our lists, "app-store-charts" for a game that was in a US App Store top chart for games when we read them. |
+| `source_set` | "boltshorts-lists" for a game on one of our lists, "app-store-charts" for a game that was in a US App Store top chart for games when we read them, "same-studio" for another game with 1,000+ US App Store ratings from a studio already in the table. |
 
 ## How it is collected
 
@@ -75,6 +75,6 @@ App Store facts come from the US App Store pages and Apple's iTunes Search API; 
 
 [CC BY 4.0](LICENSE). Use it for anything, credit "Boltshorts" with a link to https://boltshorts.com/data/.
 
-> Boltshorts (2026). Boltshorts mobile games data [Data set]. https://boltshorts.com/data/. Read from the US App Store and Google Play on October 24, 2026.
+> Boltshorts (2026). Boltshorts mobile games data [Data set]. https://boltshorts.com/data/. Read from the US App Store and Google Play on October 27, 2026.
 
 Corrections: escobarbusinesslabs@gmail.com
