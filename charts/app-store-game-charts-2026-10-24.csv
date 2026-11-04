@@ -189,7 +189,7 @@ date,chart,genre,rank,app_store_id,name,boltshorts_page
 2026-10-24,top-free,Action,88,6759914444,Privateers: Pirate Wars,https://boltshorts.com/data/privateers-pirate-wars/
 2026-10-24,top-free,Action,89,949701151,Mortal Kombat,https://boltshorts.com/data/mortal-kombat/
 2026-10-24,top-free,Action,90,1146465836,Hill Climb Racing 2,https://boltshorts.com/data/hill-climb-racing-2/
-2026-10-24,top-free,Action,91,6451399876,Delta Force: 2nd Anniversary,https://boltshorts.com/data/delta-force-2nd-anniversary/
+2026-10-24,top-free,Action,91,6451399876,Delta Force,https://boltshorts.com/data/delta-force-2nd-anniversary/
 2026-10-24,top-free,Action,92,1608916511,Rainbow Six Mobile,https://boltshorts.com/data/rainbow-six-mobile/
 2026-10-24,top-free,Action,93,696565994,Shadow Fight 2,https://boltshorts.com/data/shadow-fight-2/
 2026-10-24,top-free,Action,94,1518389230,Stealth Master: Assassin Ninja,https://boltshorts.com/data/stealth-master-assassin-ninja/
@@ -242,7 +242,7 @@ date,chart,genre,rank,app_store_id,name,boltshorts_page
 2026-10-24,top-free,Adventure,41,6449036685,50 Tiny Room Escape,https://boltshorts.com/data/50-tiny-room-escape/
 2026-10-24,top-free,Adventure,42,1459249040,Goodville,https://boltshorts.com/data/goodville/
 2026-10-24,top-free,Adventure,43,1659408861,Super Fighter 3: Open City,https://boltshorts.com/data/super-fighter-3-open-city/
-2026-10-24,top-free,Adventure,44,1517783697,Genshin Impact 6th Anniversary,https://boltshorts.com/data/genshin-impact-6th-anniversary/
+2026-10-24,top-free,Adventure,44,1517783697,Genshin Impact,https://boltshorts.com/data/genshin-impact-6th-anniversary/
 2026-10-24,top-free,Adventure,45,1326046015,Raft Survival,https://boltshorts.com/data/raft-survival/
 2026-10-24,top-free,Adventure,46,1549643882,Rooms & Exits,https://boltshorts.com/data/rooms-and-exits/
 2026-10-24,top-free,Adventure,47,1061802598,GTA,https://boltshorts.com/data/gta/
@@ -253,7 +253,7 @@ date,chart,genre,rank,app_store_id,name,boltshorts_page
 2026-10-24,top-free,Adventure,52,896112560,Marvel Contest of Champions,https://boltshorts.com/data/marvel-contest-of-champions/
 2026-10-24,top-free,Adventure,53,6751249993,Hello Kitty Island Intro,https://boltshorts.com/data/hello-kitty-island-intro/
 2026-10-24,top-free,Adventure,54,1250783151,Scary Teacher 3D,https://boltshorts.com/data/scary-teacher-3d/
-2026-10-24,top-free,Adventure,55,1200391796,June's Journey: Hidden Objects,https://boltshorts.com/data/junes-journey-hidden-objects/
+2026-10-24,top-free,Adventure,55,1200391796,,
 2026-10-24,top-free,Adventure,56,6468845173,GTA: Vice City,https://boltshorts.com/data/gta-vice-city/
 2026-10-24,top-free,Adventure,57,6472040176,Animal Hunter: Wild Shooting,https://boltshorts.com/data/animal-hunter-wild-shooting/
 2026-10-24,top-free,Adventure,58,1102415991,RealmCraft: mine & craft world,https://boltshorts.com/data/realmcraft-mine-and-craft-world/
@@ -274,7 +274,7 @@ date,chart,genre,rank,app_store_id,name,boltshorts_page
 2026-10-24,top-free,Adventure,73,6478331791,School Party Craft,https://boltshorts.com/data/school-party-craft/
 2026-10-24,top-free,Adventure,74,6443760593,Zombie Waves-shooting game,https://boltshorts.com/data/zombie-waves-shooting-game/
 2026-10-24,top-free,Adventure,75,6741141103,Dead Ahead: Roadside,https://boltshorts.com/data/dead-ahead-roadside/
-2026-10-24,top-free,Adventure,76,1627128639,An Elmwood Trail,https://boltshorts.com/data/an-elmwood-trail/
+2026-10-24,top-free,Adventure,76,1627128639,,
 2026-10-24,top-free,Adventure,77,6738644853,Car Wash Games: Repair Garage,https://boltshorts.com/data/car-wash-games-repair-garage/
 2026-10-24,top-free,Adventure,78,6797452544,Stickman Cursed Fight 3v3,https://boltshorts.com/data/stickman-cursed-fight-3v3/
 2026-10-24,top-free,Adventure,79,6749848895,Cars Royale: League of Rocket,https://boltshorts.com/data/cars-royale-league-of-rocket/
@@ -411,7 +411,7 @@ date,chart,genre,rank,app_store_id,name,boltshorts_page
 2026-10-24,top-free,Board,10,1522266397,Bingo Cash,https://boltshorts.com/data/bingo-cash/
 2026-10-24,top-free,Board,11,6745761596,Coin Master,https://boltshorts.com/data/coin-master-moon/
 2026-10-24,top-free,Board,12,1545567989,Number Match,https://boltshorts.com/data/number-match/
-2026-10-24,top-free,Board,13,359917414,Solitaire,https://boltshorts.com/data/solitaire/
+2026-10-24,top-free,Board,13,359917414,MobilityWare Solitaire,https://boltshorts.com/data/solitaire/
 2026-10-24,top-free,Board,14,6504279468,Differences,https://boltshorts.com/data/differences/
 2026-10-24,top-free,Board,15,6760089163,Mahjong Master-Fun Puzzle Game,https://boltshorts.com/data/mahjong-master-fun-puzzle-game/
 2026-10-24,top-free,Board,16,1442749804,Sudoku,https://boltshorts.com/data/sudoku/
@@ -510,7 +510,7 @@ date,chart,genre,rank,app_store_id,name,boltshorts_page
 2026-10-24,top-free,Card,9,1453837845,Charades,https://boltshorts.com/data/charades/
 2026-10-24,top-free,Card,10,6479970832,Pokémon TCG Pocket,https://boltshorts.com/data/pokemon-tcg-pocket/
 2026-10-24,top-free,Card,11,6738114176,Stake US,https://boltshorts.com/data/stake-us/
-2026-10-24,top-free,Card,12,359917414,Solitaire,https://boltshorts.com/data/solitaire/
+2026-10-24,top-free,Card,12,359917414,MobilityWare Solitaire,https://boltshorts.com/data/solitaire/
 2026-10-24,top-free,Card,13,1344700142,UNO!,https://boltshorts.com/data/uno/
 2026-10-24,top-free,Card,14,6670441558,Dark War:Survival,https://boltshorts.com/data/dark-war-survival/
 2026-10-24,top-free,Card,15,6768253096,Pullz,https://boltshorts.com/data/pullz/
@@ -585,7 +585,7 @@ date,chart,genre,rank,app_store_id,name,boltshorts_page
 2026-10-24,top-free,Card,84,447553564,Slotomania Slots Machine Game,https://boltshorts.com/data/slotomania-slots-machine-game/
 2026-10-24,top-free,Card,85,6806357092,Mahjong Trainer: Learn & Win,https://boltshorts.com/data/mahjong-trainer-learn-and-win/
 2026-10-24,top-free,Card,86,6475168012,Sticker GO!,https://boltshorts.com/data/sticker-go/
-2026-10-24,top-free,Card,87,395979574,Spider Solitaire,https://boltshorts.com/data/spider-solitaire/
+2026-10-24,top-free,Card,87,395979574,Spider Solitaire by MobilityWare,https://boltshorts.com/data/spider-solitaire/
 2026-10-24,top-free,Card,88,1592638967,Lava Slots,https://boltshorts.com/data/lava-slots/
 2026-10-24,top-free,Card,89,6741408932,Jigsolitaire,https://boltshorts.com/data/jigsolitaire/
 2026-10-24,top-free,Card,90,1311478292,Mighty Fu Casino,https://boltshorts.com/data/mighty-fu-casino/
@@ -1151,7 +1151,7 @@ date,chart,genre,rank,app_store_id,name,boltshorts_page
 2026-10-24,top-free,Role-Playing,50,1539408727,Phone Case DIY,https://boltshorts.com/data/phone-case-diy/
 2026-10-24,top-free,Role-Playing,51,1441648201,Super Stylist Fashion Makeover,https://boltshorts.com/data/super-stylist-fashion-makeover/
 2026-10-24,top-free,Role-Playing,52,6747261740,Everweave,https://boltshorts.com/data/everweave/
-2026-10-24,top-free,Role-Playing,53,1517783697,Genshin Impact 6th Anniversary,https://boltshorts.com/data/genshin-impact-6th-anniversary/
+2026-10-24,top-free,Role-Playing,53,1517783697,Genshin Impact,https://boltshorts.com/data/genshin-impact-6th-anniversary/
 2026-10-24,top-free,Role-Playing,54,6746636289,Forge Master,https://boltshorts.com/data/forge-master/
 2026-10-24,top-free,Role-Playing,55,6785419179,Quack Bag: Duck Mafia,https://boltshorts.com/data/quack-bag-duck-mafia/
 2026-10-24,top-free,Role-Playing,56,1440430680,Gacha Life,https://boltshorts.com/data/gacha-life/
@@ -1978,7 +1978,7 @@ date,chart,genre,rank,app_store_id,name,boltshorts_page
 2026-10-24,top-paid,Adventure,80,918054748,The Room Three,https://boltshorts.com/data/the-room-three/
 2026-10-24,top-paid,Adventure,81,6794266303,Fragment Zero: The Escape,https://boltshorts.com/data/fragment-zero-the-escape/
 2026-10-24,top-paid,Adventure,82,415069562,Tasty Planet,https://boltshorts.com/data/tasty-planet/
-2026-10-24,top-paid,Adventure,83,1361524540,Layton: Curious Village in HD,https://boltshorts.com/data/layton-curious-village-in-hd/
+2026-10-24,top-paid,Adventure,83,1361524540,,
 2026-10-24,top-paid,Adventure,84,6780501808,Disney Epic Mickey: Rebrushed,https://boltshorts.com/data/disney-epic-mickey-rebrushed/
 2026-10-24,top-paid,Adventure,85,982354972,Lifeline,https://boltshorts.com/data/lifeline/
 2026-10-24,top-paid,Adventure,86,1306844643,Sonic Runners Adventure,https://boltshorts.com/data/sonic-runners-adventure/
@@ -2061,7 +2061,7 @@ date,chart,genre,rank,app_store_id,name,boltshorts_page
 2026-10-24,top-paid,Casual,71,885792725,THE KING OF FIGHTERS '98,https://boltshorts.com/data/the-king-of-fighters-98/
 2026-10-24,top-paid,Casual,72,1084860489,Chameleon Run,https://boltshorts.com/data/chameleon-run/
 2026-10-24,top-paid,Casual,73,1559869073,Danganronpa V3: Killing Harmon,https://boltshorts.com/data/danganronpa-v3-killing-harmon/
-2026-10-24,top-paid,Casual,74,1502232038,Danganronpa: Trigger Happy Hav,https://boltshorts.com/data/danganronpa-trigger-happy-hav/
+2026-10-24,top-paid,Casual,74,1502232038,,
 2026-10-24,top-paid,Casual,75,1032708262,Downwell,https://boltshorts.com/data/downwell/
 2026-10-24,top-paid,Casual,76,1441234645,Kepler Attack,https://boltshorts.com/data/kepler-attack/
 2026-10-24,top-paid,Casual,77,6463115144,TV Studio Story,https://boltshorts.com/data/tv-studio-story/
@@ -2630,7 +2630,7 @@ date,chart,genre,rank,app_store_id,name,boltshorts_page
 2026-10-24,top-paid,Puzzle,57,1253855339,Rusty Lake Paradise,https://boltshorts.com/data/rusty-lake-paradise/
 2026-10-24,top-paid,Puzzle,58,918054748,The Room Three,https://boltshorts.com/data/the-room-three/
 2026-10-24,top-paid,Puzzle,59,6794266303,Fragment Zero: The Escape,https://boltshorts.com/data/fragment-zero-the-escape/
-2026-10-24,top-paid,Puzzle,60,1361524540,Layton: Curious Village in HD,https://boltshorts.com/data/layton-curious-village-in-hd/
+2026-10-24,top-paid,Puzzle,60,1361524540,,
 2026-10-24,top-paid,Puzzle,61,930868205,Haunt the House: Terrortown,https://boltshorts.com/data/haunt-the-house-terrortown/
 2026-10-24,top-paid,Puzzle,62,382991304,Osmos,https://boltshorts.com/data/osmos/
 2026-10-24,top-paid,Puzzle,63,1286676015,The Room: Old Sins,https://boltshorts.com/data/the-room-old-sins/
@@ -3264,7 +3264,7 @@ date,chart,genre,rank,app_store_id,name,boltshorts_page
 2026-10-24,top-paid,Word,6,962566898,Evil Minds: Dirty Charades!,https://boltshorts.com/data/evil-minds-dirty-charades/
 2026-10-24,top-paid,Word,7,937976391,Heads Up! Charades for Kids,https://boltshorts.com/data/heads-up-charades-for-kids/
 2026-10-24,top-paid,Word,8,315322445,Lexulous Word Game,https://boltshorts.com/data/lexulous-word-game/
-2026-10-24,top-paid,Word,9,952658953,Her Story,https://boltshorts.com/data/her-story/
+2026-10-24,top-paid,Word,9,952658953,,
 2026-10-24,top-paid,Word,10,547805285,Phrase Frenzy,https://boltshorts.com/data/phrase-frenzy/
 2026-10-24,top-paid,Word,11,796873021,Грамотей PRO,https://boltshorts.com/data/pro/
 2026-10-24,top-paid,Word,12,791402347,Dirty Phrase Frenzy: Party,https://boltshorts.com/data/dirty-phrase-frenzy-party/
@@ -3529,7 +3529,7 @@ date,chart,genre,rank,app_store_id,name,boltshorts_page
 2026-10-24,top-grossing,Action,72,6754593077,NTE: Neverness to Everness,https://boltshorts.com/data/nte-neverness-to-everness/
 2026-10-24,top-grossing,Action,73,6444808623,Hunting Battle: Sniper Hunter,https://boltshorts.com/data/hunting-battle-sniper-hunter/
 2026-10-24,top-grossing,Action,74,1577525428,War Thunder Mobile,https://boltshorts.com/data/war-thunder-mobile/
-2026-10-24,top-grossing,Action,75,6451399876,Delta Force: 2nd Anniversary,https://boltshorts.com/data/delta-force-2nd-anniversary/
+2026-10-24,top-grossing,Action,75,6451399876,Delta Force,https://boltshorts.com/data/delta-force-2nd-anniversary/
 2026-10-24,top-grossing,Action,76,6475638448,Metal Slug: Awakening-Season8,https://boltshorts.com/data/metal-slug-awakening-season8/
 2026-10-24,top-grossing,Action,77,1500726361,Bullet Echo,https://boltshorts.com/data/bullet-echo/
 2026-10-24,top-grossing,Action,78,6475592923,Timeline Up!,https://boltshorts.com/data/timeline-up/
@@ -3567,9 +3567,9 @@ date,chart,genre,rank,app_store_id,name,boltshorts_page
 2026-10-24,top-grossing,Adventure,10,1091301948,88 Fortunes Casino Slot Games,https://boltshorts.com/data/88-fortunes-casino-slot-games/
 2026-10-24,top-grossing,Adventure,11,6740618570,XP Hero,https://boltshorts.com/data/xp-hero/
 2026-10-24,top-grossing,Adventure,12,1269648762,Old School RuneScape,https://boltshorts.com/data/old-school-runescape/
-2026-10-24,top-grossing,Adventure,13,1200391796,June's Journey: Hidden Objects,https://boltshorts.com/data/junes-journey-hidden-objects/
+2026-10-24,top-grossing,Adventure,13,1200391796,,
 2026-10-24,top-grossing,Adventure,14,1599719154,Honkai: Star Rail,https://boltshorts.com/data/honkai-star-rail/
-2026-10-24,top-grossing,Adventure,15,1517783697,Genshin Impact 6th Anniversary,https://boltshorts.com/data/genshin-impact-6th-anniversary/
+2026-10-24,top-grossing,Adventure,15,1517783697,Genshin Impact,https://boltshorts.com/data/genshin-impact-6th-anniversary/
 2026-10-24,top-grossing,Adventure,16,1459249040,Goodville,https://boltshorts.com/data/goodville/
 2026-10-24,top-grossing,Adventure,17,6739616715,MapleStory : Idle RPG,https://boltshorts.com/data/maplestory-idle-rpg/
 2026-10-24,top-grossing,Adventure,18,466965151,The Sims FreePlay,https://boltshorts.com/data/the-sims-freeplay/
@@ -3812,7 +3812,7 @@ date,chart,genre,rank,app_store_id,name,boltshorts_page
 2026-10-24,top-grossing,Board,55,547305617,Bingo Pop,https://boltshorts.com/data/bingo-pop/
 2026-10-24,top-grossing,Board,56,1529839330,ClubGG Poker,https://boltshorts.com/data/clubgg-poker/
 2026-10-24,top-grossing,Board,57,1442895889,Bingo Journey! Live Bingo Games,https://boltshorts.com/data/bingo-journey-live-bingo-games/
-2026-10-24,top-grossing,Board,58,359917414,Solitaire,https://boltshorts.com/data/solitaire/
+2026-10-24,top-grossing,Board,58,359917414,MobilityWare Solitaire,https://boltshorts.com/data/solitaire/
 2026-10-24,top-grossing,Board,59,1577533842,Goods Master 3D,https://boltshorts.com/data/goods-master-3d/
 2026-10-24,top-grossing,Board,60,6736938797,Canasta Fun & Friends,https://boltshorts.com/data/canasta-fun-and-friends/
 2026-10-24,top-grossing,Board,61,1489900957,Brick Out,https://boltshorts.com/data/brick-out/
@@ -4313,7 +4313,7 @@ date,chart,genre,rank,app_store_id,name,boltshorts_page
 2026-10-24,top-grossing,Puzzle,56,6754925146,Jigsaw Block Sort,https://boltshorts.com/data/jigsaw-block-sort/
 2026-10-24,top-grossing,Puzzle,57,6476976929,Truck Star,https://boltshorts.com/data/truck-star/
 2026-10-24,top-grossing,Puzzle,58,6739867121,Sort Express!,https://boltshorts.com/data/sort-express/
-2026-10-24,top-grossing,Puzzle,59,1200391796,June's Journey: Hidden Objects,https://boltshorts.com/data/junes-journey-hidden-objects/
+2026-10-24,top-grossing,Puzzle,59,1200391796,,
 2026-10-24,top-grossing,Puzzle,60,1216575026,Matchington Mansion,https://boltshorts.com/data/matchington-mansion/
 2026-10-24,top-grossing,Puzzle,61,608206510,Farm Heroes Saga,https://boltshorts.com/data/farm-heroes-saga/
 2026-10-24,top-grossing,Puzzle,62,6746743297,Bus Fever Party!,https://boltshorts.com/data/bus-fever-party/
@@ -4486,7 +4486,7 @@ date,chart,genre,rank,app_store_id,name,boltshorts_page
 2026-10-24,top-grossing,Role-Playing,29,1492005122,Diablo Immortal,https://boltshorts.com/data/diablo-immortal/
 2026-10-24,top-grossing,Role-Playing,30,1599719154,Honkai: Star Rail,https://boltshorts.com/data/honkai-star-rail/
 2026-10-24,top-grossing,Role-Playing,31,852912420,Summoners War,https://boltshorts.com/data/summoners-war/
-2026-10-24,top-grossing,Role-Playing,32,1517783697,Genshin Impact 6th Anniversary,https://boltshorts.com/data/genshin-impact-6th-anniversary/
+2026-10-24,top-grossing,Role-Playing,32,1517783697,Genshin Impact,https://boltshorts.com/data/genshin-impact-6th-anniversary/
 2026-10-24,top-grossing,Role-Playing,33,991153141,Fallout Shelter,https://boltshorts.com/data/fallout-shelter/
 2026-10-24,top-grossing,Role-Playing,34,1292952049,MARVEL Strike Force,https://boltshorts.com/data/marvel-strike-force/
 2026-10-24,top-grossing,Role-Playing,35,6739616715,MapleStory : Idle RPG,https://boltshorts.com/data/maplestory-idle-rpg/

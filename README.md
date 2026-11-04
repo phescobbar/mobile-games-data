@@ -1,15 +1,15 @@
-# Mobile games data: App Store and Google Play facts for 8,047 games
+# Mobile games data: App Store and Google Play facts for 8,055 games
 
-Store facts for 8,047 iPhone and Android games, side by side: ratings and rating counts on both stores, Google Play downloads, prices, the Google Play "Contains ads" and "In-app purchases" labels, iPhone download size, languages, age rating, release and update dates, and US App Store chart positions.
+Store facts for 8,055 iPhone and Android games, side by side: ratings and rating counts on both stores, Google Play downloads, prices, the Google Play "Contains ads" and "In-app purchases" labels, iPhone download size, languages, age rating, release and update dates, and US App Store chart positions.
 
-It covers every game in the US App Store top charts for games (free, paid and top grossing, overall and for each game genre), every other game with 1,000+ US App Store ratings from the same studios, and the games on the [Boltshorts](https://boltshorts.com) lists. Last read from the stores on October 27, 2026.
+It covers every game in the US App Store top charts for games (free, paid and top grossing, overall and for each game genre), every other game with 1,000+ US App Store ratings from the same studios, and the games on the [Boltshorts](https://boltshorts.com) lists. Last read from the stores on November 4, 2026.
 
 **Browse it, with a page per game and benchmarks per genre:** https://boltshorts.com/data/
 
 ## At a glance
 
-- 8,047 games, 36 columns, one row per game.
-- 73% of the games we matched on Google Play carry the "Contains ads" label (4,005 of 5,522).
+- 8,055 games, 36 columns, one row per game.
+- 72% of the games we matched on Google Play carry the "Contains ads" label (4,014 of 5,538).
 - 18% cost money up front on the App Store.
 - Median App Store rating 4.64, median iPhone download 305 MB.
 
@@ -23,7 +23,7 @@ More findings: [Mobile game ads, prices and sizes: what the data says](https://b
 | [`mobile-games.json`](mobile-games.json) | The same, as JSON, with the column dictionary |
 | [`genres/`](genres/) | One CSV per App Store game genre (16 genres) |
 | [`charts/`](charts/) | US App Store top 100 game charts for iPhone, one CSV per day |
-| [`archive/`](archive/) | Every dated version of the table (3 so far), to follow ratings, prices and sizes over time |
+| [`archive/`](archive/) | Every dated version of the table (5 so far), to follow ratings, prices and sizes over time |
 | [`datapackage.json`](datapackage.json) | Frictionless Data descriptor |
 
 ## Columns
@@ -75,6 +75,6 @@ App Store facts come from the US App Store pages and Apple's iTunes Search API; 
 
 [CC BY 4.0](LICENSE). Use it for anything, credit "Boltshorts" with a link to https://boltshorts.com/data/.
 
-> Boltshorts (2026). Boltshorts mobile games data [Data set]. https://boltshorts.com/data/. Read from the US App Store and Google Play on October 27, 2026.
+> Boltshorts (2026). Boltshorts mobile games data [Data set]. https://boltshorts.com/data/. Read from the US App Store and Google Play on November 4, 2026.
 
 Corrections: escobarbusinesslabs@gmail.com
